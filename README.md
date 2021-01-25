@@ -1,9 +1,6 @@
 ### 👋  Hello there, I'm Vino Rodrigues
 
-- *Visit my GitHub landing page [here](http://vinorodrigues.github.io).*
-- *Visit my personal homepage [here](https://vinorodrigues.com).*
-
-![](https://github-readme-stats.vercel.app/api?username=vinorodrigues&show_icons=true&&count_private=true)
+[![](https://github-readme-stats.vercel.app/api?username=vinorodrigues&show_icons=true&&count_private=true)](http://vinorodrigues.github.io)
 
 ## Some of my popular repo's:
 
