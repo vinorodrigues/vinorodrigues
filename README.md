@@ -3,7 +3,7 @@
 - *Visit my GitHub landing page [here](http://vinorodrigues.github.io).*
 - *Visit my personal homepage [here](https://vinorodrigues.com).*
 
-[![](https://github-readme-stats.vercel.app/api?username=vinorodrigues)]()
+![](https://github-readme-stats.vercel.app/api?username=vinorodrigues&show_icons=true&&count_private=true)
 
 ## Some of my popular repo's:
 
